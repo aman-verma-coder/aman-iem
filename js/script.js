@@ -6,7 +6,7 @@
 //     loop: true
 // })
 var typed = new Typed('.typing', {
-    strings: ['<span class="violet">Frontend Web Developer</span>', '<span class="violet">Frontend Web Designer</span>', 'aspiring <span class="violet">FullStack Developer</span>'],
+    strings: ['<span class="violet">FullStack Web Developer</span>', '<span class="violet">Web Designer</span>', 'aspiring <span class="violet">Java Programmer</span>'],
     typeSpeed: 50,
 });
 /*============================================Aside=====================================*/
